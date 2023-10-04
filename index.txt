@@ -1,6 +1,11 @@
 learn git tutor by shandika galih wpu
 - target 3 bulan ke depan learn html,css,php,js semoga konsisten!
 
+now learn
+- step by step css fundamental
+- css framework bootstrap & taillwind
+
+
 
 cipayung, 4 okt 2024
 
