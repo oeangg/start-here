@@ -1,7 +1,9 @@
 Next Learn :
 - framework CSS
   bootstrap
-  tliwind
 - javascrips
+- Framework JS
+  * Vlue
 - PHP
 - framework PHP
+  * Laravel
