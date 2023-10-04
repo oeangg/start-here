@@ -1,8 +1,8 @@
 Next Learn :
 - framework CSS
-  * bootstrap
   * taliwind
 - javascrips
 - Framework Javascrips
 - PHP
 - framework PHP
+  * laravel
